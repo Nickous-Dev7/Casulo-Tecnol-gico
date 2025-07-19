@@ -1,9 +1,43 @@
-.profile {
-    object-fit: cover;
-    border-radius: 50%;
-    height: 200px;
-    width: 200px;
-    border: solid 1px black;
-       
+body { 
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+    align-items: center;
+    margin-bottom: 60px;
     
+}
+li a:hover{ 
+    color: rgb(141, 136, 136);
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.center {
+    text-align: center;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.section {
+    padding: 30px;
+}
+footer img {
+    width: 40px;
+    height: 40px;
 }
