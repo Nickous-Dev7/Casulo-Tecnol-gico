@@ -1,7 +1,7 @@
 
 # My Online Curriculum Vitae
 
-    I have decided to develop an online curriculum vitae for the project. The objective is to refine it incrementally each week in parallel with the project's progress, resulting in a responsive and more comprehensive layout.
+  I have decided to develop an online curriculum vitae for the project. The objective is to refine it incrementally each week in parallel with the project's progress, resulting in a responsive and more comprehensive layout.
 
 
 💡 Technologies Used
@@ -17,5 +17,8 @@
     • Icons Linkedin and Github ✅
     • Contact and Project Page (in progress)⚠️
     • Added script folder and file, but they're still empty. (in progress)⚠️
+
+
+
 
 
